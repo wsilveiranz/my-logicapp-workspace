@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_INPROC_NET8_ENABLED": "1",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "APP_KIND": "workflowapp",
+    "WORKFLOWS_SUBSCRIPTION_ID": ""
+  }
+}
